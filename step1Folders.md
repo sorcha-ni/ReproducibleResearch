@@ -99,8 +99,6 @@ You may get a question on recovery verses backup - have a chat to your storage t
 It will appear on https://amandamiotto.github.io/ReproducibleResearch/instructor/step1Folders.html#raw-data
 
 -->
-[Research Data Oxford](https://researchdata.ox.ac.uk/welcome) is the University of Oxford's central source of information and guidance relating to research data management. The site is for Oxford researchers at all levels (including students doing research projects) who are dealing with research data, and for all those involved in supporting researchers.
-
 Ask your IT department about Research data storage and consider a backup plan.
 
 
